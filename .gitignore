@@ -1,0 +1,14 @@
+Task03_Liver_rs/
+__pycache__/
+.ipynb_checkpoints/
+lightning_logs/
+
+# Ignore old checkpoints
+weights/epoch=1-step=*.ckpt
+weights/epoch=10-step=*.ckpt
+weights/epoch=20-step=*.ckpt
+weights/epoch=30-step=*.ckpt
+weights/epoch=40-step=*.ckpt
+weights/epoch=51-step=*.ckpt
+weights/epoch=62-step=*.ckpt
+weights/epoch=70-step=*.ckpt
